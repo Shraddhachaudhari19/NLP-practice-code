@@ -1,6 +1,6 @@
-# NLP Text Preprocessing Project
+# NLP Text Preprocessing Concept
 
-This project includes:
+This concept includes:
 - Stopword removal
 - Chat word conversion
 - Text cleaning using NLP
